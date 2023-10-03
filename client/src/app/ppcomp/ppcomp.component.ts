@@ -13,7 +13,7 @@ export class PpcompComponent implements OnInit {
   ngOnInit(){}
   
   Predict(){
-    //call the service
+    //call the scdfervice
   }
 
 
